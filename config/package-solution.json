@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "searchbar-client-side-solution",
+    "id": "40c0c6b9-0e8a-464a-9b36-9ddcb94b15df",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "searchbar description"
+      },
+      "longDescription": {
+        "default": "searchbar description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "searchbar Feature",
+        "description": "The feature that activates elements of the searchbar solution.",
+        "id": "588279a9-e245-48ae-b918-744cbeef8ba6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/searchbar.sppkg"
+  }
+}

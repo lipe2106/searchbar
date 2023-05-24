@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "searchbar",
+    "libraryId": "40c0c6b9-0e8a-464a-9b36-9ddcb94b15df",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "searchbar",
+    "solutionShortDescription": "searchbar description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
